@@ -21,7 +21,7 @@ var bio = {
 	},
 	"location" : "Pittsburgh, PA",
 	"biopic" : "images/8150967.gif",
-	"skills" : ["HTML", "CSS", "JavaScript", "jQuery", "AngularJS", "SQL"]	
+	"skills" : ["HTML", "CSS", "JavaScript", "jQuery", "AngularJS", "SQL", "Node", "ExpressJS", "Github"]	
 }
 
 function displayBio() {
@@ -73,14 +73,14 @@ var work = {
 	"title" : "Contract Position - Product Specialist",
 	"location" : "Pittsburgh, PA",
 	"dates" : "Sep 2013 - Oct 2014",
-	"description" : "<ul><li>Built expertise on a wide variety of products through thorough research and analysis of data from multiple channels. Quickly learned and mastered new processes and technical applications.</li><li>Identified and corrected problems in the knowledge repository, and used a variety of configuration tools to improve the presentation of product data.</li><li>Used editorial skills to organize information, write, and publish high quality online content according to requirements regarding order, clarity, conciseness, style, and terminology.</li><li>Responsible for editing, standardizing, and suggesting changes to materials prepared by others.</li><li>Worked to normalize brand and product data throughout Google Shopping to ensure a consistent and pleasant experience for users.</li></ul>"
+	"description" : "<ul><li>* Built expertise on a wide variety of products through thorough research and analysis of data from multiple channels. Quickly learned and mastered new processes and technical applications.</li><li>* Identified and corrected problems in the knowledge repository, and used a variety of configuration tools to improve the presentation of product data.</li><li>* Used editorial skills to organize information, write, and publish high quality online content according to requirements regarding order, clarity, conciseness, style, and terminology.</li><li>* Responsible for editing, standardizing, and suggesting changes to materials prepared by others.</li><li>Worked to normalize brand and product data throughout Google Shopping to ensure a consistent and pleasant experience for users.</li></ul>"
 },
 {
 	"employer" : "Siemens",
 	"title" : "Contract Position - Product Specialist",
 	"location" : "Pittsburgh, PA",
 	"dates" : "Feb 2012 - Dec 2012",
-	"description" : "<ul><li>Supported Product Management department, particularly for controls, of Medium Voltage Motor Drives.</li><li>Project lead for new Cyber Security initiative researching NERC CIP</li><li>Researched and analyzed service costs and future exposure for existing product.</li><li>Lead team to add features to new controller.</li></ul>"
+	"description" : "<ul><li>* Supported Product Management department, particularly for controls, of Medium Voltage Motor Drives.</li><li>* Project lead for new Cyber Security initiative researching NERC CIP</li><li>* Researched and analyzed service costs and future exposure for existing product.</li><li>* Lead team to add features to new controller.</li></ul>"
 },
 {
 	"employer" : "Alco Parking",
@@ -94,28 +94,28 @@ var work = {
 	"title" : "Product Manager",
 	"location" : "Pittsburgh, PA",
 	"dates" : "Oct 2007 - Feb 2010",
-	"description" : "<ul><li>Was responsible as product manager for design, packaging, implementation and marketing of Controllers and I/O for Power Plant and Water / Wastewater plants control systems.</li><li>Developed new products based on customer feedback. Customers included FPL, Dominion, Southern Company, other US companies as well as various Indian and Chinese utilities.</li><li>Worked with Dominion Clover on development of I/O system project.</li><li>Involved in cost reduction efforts on existing products.</li><li>Supported field sales technical queries.</li></ul>"
+	"description" : "<ul><li>* Was responsible as product manager for design, packaging, implementation and marketing of Controllers and I/O for Power Plant and Water / Wastewater plants control systems.</li><li>* Developed new products based on customer feedback. Customers included FPL, Dominion, Southern Company, other US companies as well as various Indian and Chinese utilities.</li><li>* Worked with Dominion Clover on development of I/O system project.</li><li>* Involved in cost reduction efforts on existing products.</li><li>* Supported field sales technical queries.</li></ul>"
 },
 {
 	"employer" : "Compunetix",
 	"title" : "Account Executive",
 	"location" : "Monroeville, PA",
 	"dates" : "Nov 2005 - Oct 2007",
-	"description" : "<ul><li>Wrote technical proposals, researched new markets, assisted in systems demonstrations as well as in testing.</li><li>Made cold calls to various government and private federal contractors to develop new business.</li><li>Made presentations to customers and interfaced with them on quotes.</li></ul>"
+	"description" : "<ul><li>* Wrote technical proposals, researched new markets, assisted in systems demonstrations as well as in testing.</li><li>* Made cold calls to various government and private federal contractors to develop new business.</li><li>* Made presentations to customers and interfaced with them on quotes.</li></ul>"
 },
 {
 	"employer" : "Elliott Company",
 	"title" : "Applications Engineer",
 	"location" : "Jeannette, PA",
 	"dates" : "Jun 2000 - Jul 2005",
-	"description" : "<ul><li>Supported international sales force by determining acceptable price levels for bids and quotations and answering technical questions</li><li>Created cost buildups to determine margin levels and scope of supply, resulting in bookings of approximately $15 million of equipment per year.</li><li>Kept sales force informed of market developments and tracked competitors&apos; actions.</li><li>Determined new product requirements and communicated these to Product Engineering Department for implementation.</li><li>Developed sales tools for field salespeople such as division website, brochures, and CD-ROM with pricing and product descriptions. Developed CD-ROM in house saving $25,000 in consultant fees.</li><li>Represented Company at national trade shows.</li><li>Assisted in training field sales force in product line.</li><li>Prepared quotations for customers in various field offices as necessary.</li><li>Developed automated pricing program helping to reduce leadtimes by 60 percent and saving nearly $100,000 in programming consulting fees.</li><li>Worked with independent sales representatives to sell to customers, involving presentations as well as preparing quotes.</li><li>Prepared of quotes for customers including reviewing specifications from API (611/612) as well as customers&apos; own specifications.</li><li></li><li></li></ul>"
+	"description" : "<ul><li>* Supported international sales force by determining acceptable price levels for bids and quotations and answering technical questions</li><li>* Created cost buildups to determine margin levels and scope of supply, resulting in bookings of approximately $15 million of equipment per year.</li><li>* Kept sales force informed of market developments and tracked competitors&apos; actions.</li><li>* Determined new product requirements and communicated these to Product Engineering Department for implementation.</li><li>* Developed sales tools for field salespeople such as division website, brochures, and CD-ROM with pricing and product descriptions. Developed CD-ROM in house saving $25,000 in consultant fees.</li><li>* Represented Company at national trade shows.</li><li>* Assisted in training field sales force in product line.</li><li>* Prepared quotations for customers in various field offices as necessary.</li><li>* Developed automated pricing program helping to reduce leadtimes by 60 percent and saving nearly $100,000 in programming consulting fees.</li><li>* Worked with independent sales representatives to sell to customers, involving presentations as well as preparing quotes.</li><li>* Prepared quotes for customers including reviewing specifications from API (611/612) as well as customers&apos; own specifications.</li></ul>"
 },
 {
 	"employer" : "Elliott Company",
 	"title" : "Project Engineer",
 	"location" : "Jeannette, PA",
 	"dates" : "Jun 1996 - Jun 2000",
-	"description" : "<ul><li>Primary Point of Contact for customers and subvendors.</li><li>Managed 10 to 12 projects (typically valued from $100K to $500K) concurrently for both domestic and international customers.</li><li>Responsible for overall design and quality and meeting customer specifications.</li><li>Selected parts and purchased auxiliaries, also reviewed supplier drawings and data to ensure compliance with company and customer specifications</li><li>Sized water cooling and lube oil systems, inlet air filters and aftercoolers</li><li>Supervised construction and testing, and handled customer witnesses.</li><li>Expedited change orders and assisted sales force.</li><li>Selected for Value Analysis Team to reduce product production costs by $10,000.</li><li>Wrote manual and trained Chinese Project Engineers for Joint Venture in Shanghai, China and made trip to Italy for meetings with customer.</li></ul>"
+	"description" : "<ul><li>* Primary Point of Contact for customers and subvendors.</li><li>* Managed 10 to 12 projects (typically valued from $100K to $500K) concurrently for both domestic and international customers.</li><li>* Responsible for overall design and quality and meeting customer specifications.</li><li>* Selected parts and purchased auxiliaries, also reviewed supplier drawings and data to ensure compliance with company and customer specifications</li><li>* Sized water cooling and lube oil systems, inlet air filters and aftercoolers</li><li>* Supervised construction and testing, and handled customer witnesses.</li><li>* Expedited change orders and assisted sales force.</li><li>* Selected for Value Analysis Team to reduce product production costs by $10,000.</li><li>* Wrote manual and trained Chinese Project Engineers for Joint Venture in Shanghai, China and made trip to Italy for meetings with customer.</li></ul>"
 }
 ]}
 
@@ -153,7 +153,26 @@ var education = {
 		"title": "Geographic Information Systems (GIS) Specialization",
 		"dates": "Dec 2016",
 		"url" : "https://www.coursera.org/specializations/gis"
+	},
+	{
+		"school": "Coursera",
+		"title": "R Programming courses",
+		"dates": "Dec 2016",
+		"url" : "https://www.coursera.org/"
+	},
+	{
+		"school": "Udacity",
+		"title": "Web Development, Bootstrap, Responsive Web Design",
+		"dates": "2015",
+		"url" : "https://www.udacity.com/"
+	},
+	{
+		"school": "",
+		"title": "Other skills",
+		"dates": "",
+		"url" : "Visual Studio, Github, Word, Excel, Access, Visual Basic for Applications, Microsoft Project, Visio. Six Sigma Yellow Belt"
 	}
+	
 	]
 }
 
@@ -234,19 +253,6 @@ displaySchools();
 displayWork();
 displayProjects();
 
-
-
-
-
-$(document).click(function(loc) {
-    var x = loc.pageX;
-    var y = loc.pageY;
-    
-    logClicks(x,y);
-});
-
-
-
 function inName() {
   var name = window.name;
   name = name.trim().split(" ");
@@ -270,11 +276,6 @@ function locationizer(work_obj) {
 	}
 }
 
+
 $("#mapDiv").append(googleMap);
 
-
-
-
-
-
-//footerContacts
